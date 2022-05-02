@@ -7,3 +7,5 @@ Monday
 Tuesday
 
 Wednesday
+
+Thursday
