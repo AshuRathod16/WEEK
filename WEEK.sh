@@ -9,3 +9,5 @@ Tuesday
 Wednesday
 
 Thursday
+
+Friday
